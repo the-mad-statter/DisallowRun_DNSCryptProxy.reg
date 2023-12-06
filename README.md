@@ -1,7 +1,7 @@
 # DisallowRun_DNSCryptProxy.reg <img src="img/DisallowRun_DNSCryptProxy.reg.png" align="right" width="125px" />
 
 [![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
-[![](https://img.shields.io/badge/devel%20version-1.0-green.svg)](https://github.com/the-mad-statter/DisallowRun_DNSCryptProxy.reg)
+[![](https://img.shields.io/badge/devel%20version-1.0.0-green.svg)](https://github.com/the-mad-statter/DisallowRun_DNSCryptProxy.reg)
 [![](https://img.shields.io/github/last-commit/the-mad-statter/DisallowRun_DNSCryptProxy.reg.svg)](https://github.com/the-mad-statter/DisallowRun_DNSCryptProxy.reg/commits/main)
 [![License: GPL-3](https://img.shields.io/badge/license-GPL--3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html) 
 
